@@ -266,7 +266,7 @@ These variables can be explored to understand patterns within the dataset and de
 
 Potential improvements to the project include:
 
-- Compare Random Forest with Logistic Regression, XGBoost, and other classifiers
+- Compare Random Forest with K-Nearest Neighbors (KNN), XGBoost and other classifiers
 
 - Add cross-validation and systematic hyperparameter tuning
 
